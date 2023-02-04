@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 struct queue{
 	int size;
 	int* data;
